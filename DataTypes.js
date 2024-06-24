@@ -2,7 +2,7 @@
 
 // Alert Statement
 alert() //alert popup on browser.
-
+                                                    //PRIMITIVE String, Number, Boolearn, null, undefined, Symbol, BigInt
 // Number
 let num = 42; // Integer
 let float = 3.14; // Floating-point number
@@ -25,6 +25,8 @@ let sym = Symbol('description');
 
 // BigInt
 let bigInt = 1234567890123456789012345678901234567890n;
+
+                                                        // NON PRIMITIVE - REFERENCE Array, Object, Function
 
 // Object
 let obj = { name: "John", age: 30 }; // Object
